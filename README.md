@@ -1,6 +1,6 @@
 # Astra
 
-Dark glass festival website for Samrat Ashok Technological Institute.
+Technovision 2026 | Code Crack 3.0 | Samrat Ashok Technological Institute.
 
 Open index.html in your browser, or run:
 
@@ -18,13 +18,9 @@ dates have events. The Back to festival control returns to November 2026.
 
 ## Motion
 
-The footer includes a Motion: Full / Calm button. Full is enabled by default and plays
-scroll reveals, rotating planet surfaces, and the planet approach before navigation.
+The footer includes a Motion: Full / Calm button. Full is enabled by default and uses heavy animation.
 Calm uses a gentle page fade. Your selection is remembered.
 
-The homepage's Find your frequency section stays on screen while scrolling through
-Code, Design and Culture. The panels, shapes and waveform move with the scroll
-position and reverse as you scroll up. In Calm mode these chapters become static cards.
 
 ## Editing
 
